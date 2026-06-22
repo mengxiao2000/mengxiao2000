@@ -5,7 +5,9 @@ I’m a PhD candidate in Communication with interests in media, technology, and 
 ## About Me
 
 🔍 Interested in social bots, AIGC, and computational methods
+
 🧠 Passionate about research, critical thinking, and creative problem-solving
+
 🛠️ Learning and building with code, data, and AI tools
 
 
